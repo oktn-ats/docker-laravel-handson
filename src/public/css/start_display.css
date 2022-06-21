@@ -1,0 +1,21 @@
+#all_display{
+  margin-left: 30%;
+  margin-right: 30%;
+  border: solid 2px white;
+  border-width: 100px;
+}
+
+#title{
+  font-size: 40px;
+}
+
+.start_button{
+  width: 250px;
+  margin: 10px 0px 10px 10%;
+  padding: 15px;
+}
+
+.position_change{
+  margin-left: 10%;
+}
+

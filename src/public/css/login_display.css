@@ -1,0 +1,24 @@
+#display_pos{
+    border: 2px solid black;
+    width: 50%;
+    height: 300px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 8%;
+
+}
+
+.pos_change{
+    margin-top: 6%;
+
+}
+
+.font_ch{
+    font-size: 50px;
+}
+.font_size_ch{
+width: 380px;
+}
+.errors{
+color: red;
+}

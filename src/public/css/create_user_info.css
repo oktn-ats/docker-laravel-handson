@@ -1,0 +1,25 @@
+.display{
+  margin-top: 10%;
+}
+
+.input_text{
+  margin: 10PX;
+  width: 15em;
+  height: 25px;
+  max-width: 100%;
+}
+.main{
+  font-size: 50px;
+}
+.send_address{
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.inner_size{
+  width: 400px;
+}
+
+.errors{
+color: red;
+}

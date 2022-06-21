@@ -1,0 +1,30 @@
+.position{
+    margin-top: 7%;
+}
+.border_set{
+    width: 40%;
+    height: 20%;
+    border: 2px solid black;
+}
+.font_change{
+    font-size: 20px;
+    margin-top: 2%;
+}
+.submit_position{
+    width: 200px;
+    height: 70px;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+.size_change{
+    width: 400px;
+    height: 30px;
+}
+#title{
+    margin-top: 5%;
+}
+
+.errors{
+  color: red;
+
+}

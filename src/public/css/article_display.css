@@ -1,0 +1,24 @@
+.article_display{
+    margin-top: 6%;
+    margin-left: 35%;
+    margin-right: 35%;
+    max-width: 500px;
+    border: 1px solid black;
+}
+
+.margin_Adjustment{
+    margin-bottom: 15px;
+}
+
+.pos_change{
+    padding-top: 10%;
+}
+.aaa{
+    margin-top: 5%;
+}
+#auto_display{
+    margin-top: 10%;
+}
+.margin_change{
+    margin-top: 2%;
+}
